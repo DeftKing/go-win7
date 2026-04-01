@@ -282,8 +282,8 @@ type IMAGE_LOAD_CONFIG_DIRECTORY64 struct {
 }
 
 const (
-	PeMinimumTargetMajorVersion = 10
-	PeMinimumTargetMinorVersion = 0
+	PeMinimumTargetMajorVersion = 6
+	PeMinimumTargetMinorVersion = 1
 )
 
 // DOS stub that prints out
